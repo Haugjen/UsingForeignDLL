@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MyMathDLLTurorial">
-      <HintPath>..\DLL\MyMathDLLTurorial.dll</HintPath>
+      <HintPath>DLL\MyMathDLLTurorial.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
