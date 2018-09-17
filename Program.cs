@@ -10,6 +10,8 @@ namespace UsingForeignDLL
     {
         static void Main(string[] args)
         {
+
+            Console.ReadLine();
         }
     }
 }
